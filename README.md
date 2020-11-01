@@ -6,7 +6,6 @@
 * [Solution](https://rakesh0017.github.io/HTML-CSS-and-Javascript/module2_solution/)
 
 ### Module 3
-* [Basic Solution (without most of the optional parts)](https://rakesh0017.github.io/HTML-CSS-and-Javascript/module3_solution/index_basic.html)
 * [Full Solution (including all the optional parts)](https://rakesh0017.github.io/HTML-CSS-and-Javascript/module3_solution/)
 
 ### Module 4
