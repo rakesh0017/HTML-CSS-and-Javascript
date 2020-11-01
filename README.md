@@ -7,7 +7,7 @@ This repository contains my solutions to the assignments of the Coursera course
 
 ### Module 2
 * Deadline: December 18, 11:59 PM PST
-* [Solution](https://goggle.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module2_solution/)
+* [Solution](https://rakesh0017.github.io/Coursera_HTML-CSS-Javascript-for-Web-Developers/module2_solution/)
 
 ### Module 3
 * Deadline: December 25, 11:59 PM PST
